@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Adhvika Jamwal 👋
+
+**Undergraduate | Infosec Auditor @ Paytm**
+
+---
+
+🔒 Passionate about Information Security, Web Development, and modern DevSecOps.  
+🛡️ Currently making things safer at [Paytm](https://paytm.com) as an Information Security Auditor.  
+💻 Building and breaking things, one commit at a time.
+
+---
+
+### 🛠️ Skills & Interests
+
+- Infosec | DevSecOps | Web Development | Frontend
+- DevOps | API Testing | Automation
+
+---
+
+### 🚀 Featured Project
+
+- [HoneyGuard](https://github.com/Adhvika-aj/HoneyGuard): Proactive threat detection for smarter security.
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/adhvika-jamwal)
+- adhvika.aj@gmail.com
+
+---
 
 <!--
-**Adhvika-aj/Adhvika-aj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Minimal, clean, and always learning!
 -->
