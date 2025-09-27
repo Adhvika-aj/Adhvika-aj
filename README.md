@@ -14,9 +14,9 @@
 ⚡ CORE PROTOCOLS  
 <div align="center">
 ╔═════════════════════════════════════════════════════════════════╗  
-║  🔐 INFOSEC SPECIALIST           ⚙️ DEVSECOPS ENGINEER        ║  
-║  💻 WEB DEVELOPER                🖥️ FRONTEND/REACT           ║  
-║  🔧 DEVOPS & AUTOMATION          🛡️ SECURITY AUDITOR @ PAYTM  ║  
+║  🔐 INFOSEC SPECIALIST           ⚙️ DEVSECOPS ENGINEER         ║  
+║  💻 WEB DEVELOPER                🖥️ FRONTEND/REACT             ║  
+║  🔧 DEVOPS & AUTOMATION          🛡️ SECURITY AUDITOR @ PAYTM   ║  
 ╚═════════════════════════════════════════════════════════════════╝  
 </div>
 
